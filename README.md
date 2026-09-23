@@ -1,3 +1,5 @@
+#Link de el vieo: https://youtu.be/bItn3G0Xkq8
+
 # 📱 Taller Práctico — Semana 03: Expo Starter-Kit, NativeWind & useState
 ### Unidad Educativa Técnico Salesiano (UETS) — 3° BGU Informática (2026–2027)
 
